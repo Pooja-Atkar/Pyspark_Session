@@ -1,0 +1,5 @@
+{"firstname":"James","lastname":"Smith","id":"36636","gender":"M","salary":3000}
+{"firstname":"Michael","middlename":"Rose","id":"40288","gender":"M","salary":4000}
+{"firstname":"Robert","lastname":"Williams","id":"42114","gender":"M","salary":4000}
+{"firstname":"Maria","middlename":"Anne","lastname":"Jones","id":"39192","gender":"F","salary":4000}
+{"firstname":"Jen","middlename":"Mary","lastname":"Brown","gender":"F","salary":-1}

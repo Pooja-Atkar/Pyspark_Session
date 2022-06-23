@@ -1,0 +1,5 @@
+{"Id":1,"Fname":"Yesh","Lname":"Patil","Age":29,"Gender":"M","Deptno":11,"Salary":20000}
+{"Id":2,"Fname":"Ram","Lname":"Wagh","Age":30,"Gender":"M","Deptno":12,"Salary":30000}
+{"Id":3,"Fname":"Sita","Lname":"Patil","Age":29,"Gender":"F","Deptno":11,"Salary":50000}
+{"Id":4,"Fname":"Kiran","Lname":"XYZ","Age":33,"Gender":"F","Deptno":11,"Salary":40052}
+{"Id":5,"Fname":"Savita","Lname":"Waghmare","Age":35,"Gender":"F","Deptno":12,"Salary":800000}
